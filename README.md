@@ -1,0 +1,2 @@
+# WorkspaceLinks
+Buddy Workspace Links
